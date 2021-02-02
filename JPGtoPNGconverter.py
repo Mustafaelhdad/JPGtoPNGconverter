@@ -1,5 +1,6 @@
 ###### how to use
 ###### python JPGtoPNGconverter.py thefoldercontainsjpgimgs thenewfolder
+###### python JPGtoPNGconverter.py /poks /new
 
 import sys
 import os
